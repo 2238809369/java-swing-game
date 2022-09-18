@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">health</string>
+    <string name="login_txt_uname">欢迎进入微信!</string>
+</resources>
